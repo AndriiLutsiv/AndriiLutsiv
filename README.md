@@ -31,4 +31,4 @@
 <code><img height="35" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="35" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code>
 
-Front-end developer from <b>Ukraine<b> 💚
+<div>Front-end developer from <b>Ukraine<b> 💚</div>
